@@ -5,27 +5,3 @@ I just wanted to clarify that the original project was sourced from YouTube, I'v
 
 Original Project Name is "Complete Responsive Flower Store Website Design With Admin Dashboard - HTML CSS JavaScript PHP MySQL" from the Creator "Mr. Web Designer"
 Source: YouTube - [https://www.youtube.com/watch?v=Yvh8LT9yUO8]
-
-Modifications: 
-I've undertaken extensive enhancements across multiple facets, ensuring a simple user experience and improved management capabilities. 
-Here's an overview of the modifications I've implemented in:
-
-**Admin Panel**
-01. header
-02. order page
-03. products page
-04. user page
-05. contacts page
-
-
-**user Panel**
-01. header
-02. home page
-03. order page
-04. view page
-05. products page
-06. cart
-07. checkout pge
-08. wishlist page
-09. search page
-10. comment section

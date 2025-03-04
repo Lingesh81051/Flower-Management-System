@@ -1,7 +1,0 @@
-**Attribution**
-
-I just wanted to clarify that the original project was sourced from YouTube, I've modified the original project to suit my needs or objectives since it was very much needed for my project, and I'm happy to work with you to ensure its proper usage and attribution. If you need assistance with anything related to the project, please let me know, and I'll do my best to help.
-
-
-Original Project Name is "Complete Responsive Flower Store Website Design With Admin Dashboard - HTML CSS JavaScript PHP MySQL" from the Creator "Mr. Web Designer"
-Source: YouTube - [https://www.youtube.com/watch?v=Yvh8LT9yUO8]
